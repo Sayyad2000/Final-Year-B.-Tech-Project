@@ -107,6 +107,8 @@ SimilarityThreshold: 80
 Result:
 ✔️ Matched! Similarity: 89.5%
 ```
+![Face Matching Result](Output.png)
+
 
 ---
 
